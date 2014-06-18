@@ -10,7 +10,7 @@
             ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
             <ActionContent
                title = "Run Script"
-               scriptText = "cd ${SRCROOT}&#10;pod install">
+               scriptText = "echo &apos;dsfdsfdsfds fds fsdf dsf dsf dsf sdf dsfdsfds fds fdsf sdf sdf sf dsfds&apos;&#10;cd ${SRCROOT}&#10;pod install">
             </ActionContent>
          </ExecutionAction>
       </PreActions>
