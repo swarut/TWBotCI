@@ -7,8 +7,9 @@ inhibit_all_warnings!
 pod 'CocoaLumberjack'
 pod 'FrameAccessor'
 pod 'FPLog'
-pod 'PonyDebugger', '~> 0.3.0'
-pod 'CrashlyticsFramework', '~> 2.1'
+
+#pod 'PonyDebugger', '~> 0.3.0'
+#pod 'CrashlyticsFramework', '~> 2.1'
 
 #testing
 #pod 'TestFlightSDK'
@@ -17,4 +18,4 @@ pod 'CrashlyticsFramework', '~> 2.1'
 #   pod 'KIF', '~> 3.0'
 #end
 
-pod 'RegExCategories'
+#pod 'RegExCategories'
