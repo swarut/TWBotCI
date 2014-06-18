@@ -10,6 +10,20 @@
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3FFDA33C1951909400945030"
+               BuildableName = "PrebotTests.xctest"
+               BlueprintName = "PrebotTests"
+               ReferencedContainer = "container:TWBotCI.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
@@ -17,6 +31,20 @@
                BlueprintIdentifier = "3FBD831F195184240012EABF"
                BuildableName = "TWBotCI.app"
                BlueprintName = "TWBotCI"
+               ReferencedContainer = "container:TWBotCI.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3FBD8343195184240012EABF"
+               BuildableName = "TWBotCITests.xctest"
+               BlueprintName = "TWBotCITests"
                ReferencedContainer = "container:TWBotCI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -35,6 +63,16 @@
                BlueprintIdentifier = "3FBD8343195184240012EABF"
                BuildableName = "TWBotCITests.xctest"
                BlueprintName = "TWBotCITests"
+               ReferencedContainer = "container:TWBotCI.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3FFDA33C1951909400945030"
+               BuildableName = "PrebotTests.xctest"
+               BlueprintName = "PrebotTests"
                ReferencedContainer = "container:TWBotCI.xcodeproj">
             </BuildableReference>
          </TestableReference>
